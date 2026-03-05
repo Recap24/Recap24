@@ -1,6 +1,4 @@
-<h1 align="center">
-Hi 👋 I'm Mostafez
-</h1>
+<h1 align="center">Hi 👋 I'm Mostafez</h1>
 
 <h3 align="center">
 Full Stack Web Developer | React • Next.js • Node.js • Python
@@ -12,17 +10,16 @@ Full Stack Web Developer | React • Next.js • Node.js • Python
 
 ---
 
-## 🚀 About Me
+# 🚀 About Me
 
 - 💻 Full Stack Web Developer  
 - 🔭 Currently working on **Modern Web Applications**  
-- 🌱 Learning **Advanced Backend Systems & Cloud**  
-- 🧠 Interested in **Scalable Software Architecture**  
-- ⚡ Passionate about **Clean UI & Efficient Backend**
+- 🌱 Learning **Advanced Backend Architecture**  
+- ⚡ Passionate about **Clean UI & Efficient Backend Systems**
 
 ---
 
-## 🛠 Tech Stack
+# 🛠 Tech Stack
 
 ### Frontend
 <p>
@@ -46,31 +43,17 @@ Full Stack Web Developer | React • Next.js • Node.js • Python
 
 ---
 
-## 📊 GitHub Stats
+# 📊 GitHub Stats
+
+
 
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=Recap24&show_icons=true&theme=tokyonight" />
+<img src="https://streak-stats.demolab.com?user=Recap24&theme=tokyonight&hide_border=true" />
 </p>
 
-<p align="center">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Recap24&theme=tokyonight" />
-</p>
 
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Recap24&layout=compact&theme=tokyonight" />
-</p>
 
----
-
-## 🏆 GitHub Trophies
-
-<p align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=Recap24&theme=tokyonight&no-frame=true&row=1&column=6" />
-</p>
-
----
-
-## 📈 Contribution Graph
+# 📈 Contribution Graph
 
 <p align="center">
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=Recap24&theme=tokyo-night" />
@@ -78,18 +61,12 @@ Full Stack Web Developer | React • Next.js • Node.js • Python
 
 ---
 
-## 🐍 Contribution Snake
-
-<p align="center">
-<img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg" />
-</p>
-
----
-
-## 🌐 Connect With Me
+# 🌐 Connect With Me
 
 <p>
-<a href="https://github.com/Recap24"><img src="https://skillicons.dev/icons?i=github" /></a>
+<a href="https://github.com/Recap24">
+<img src="https://skillicons.dev/icons?i=github" />
+</a>
 </p>
 
 ---
